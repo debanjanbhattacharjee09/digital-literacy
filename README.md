@@ -2,53 +2,60 @@
 
 # Student Details
 Name:Debanjan Bhattacharjee
-
-Branch: BTech CSE(Core)
-
-Year: 2025-26
+Reg No.: 25BCE11136
+Branch: CSE Core
+Year: 1st Year
+Course Code: CSE0001
+Course Title: Digital Literacy
  
-# Project Overview
-This project is made as part of my role as a Student in my course Digital literacy. The main aim is to understand how to use digital tools properly and stay safe online.
+Introduction (120 words)
 
-In this digital world, it is important to know about things like online platforms, email communication and cyber safety. This project includes 5 tasks which cover different areas of digital literacy.
+In today’s digital age, being digitally literate is essential for academic success, professional growth, and responsible online behavior. As a Student Digital Ambassador, this project focuses on building awareness and practical skills related to digital tools, communication, and cybersecurity. Through five structured tasks, I explored key areas including digital awareness, professional online presence, collaboration tools, email etiquette, and cybercrime prevention. Each task helped me understand how technology can be used effectively and responsibly. This project not only improved my technical skills but also enhanced my ability to guide others in navigating the digital world safely and efficiently.
 
-# Repository Structure
-## Task-1-Presentation
-This contains my infographic created using Canva. It explains topics like digital literacy, online tools and internet safety in a simple way.
+🎨 Task 1 – Infographic Write-up (180 words)
 
-## Task-2-Portfolio
-In this task, I created my profiles on platforms like GitHub, LinkedIn and Kaggle. Screenshots of my profiles are added here to show my digital presence.
+For this task, I used Canva to design a digital literacy awareness infographic. The infographic covers three main topics: the meaning of digital literacy, safe internet practices, and maintaining a professional online presence. I included key points such as using strong passwords, avoiding suspicious links, and creating a positive digital footprint.
 
-## Task-3-Platforms
-This folder includes my coding practice work and Google Form.
+The design uses icons, short text, and colors to make it visually appealing and easy to understand. I ensured the content is simple so that students can quickly grasp the importance of digital literacy.
 
-I solved a beginner problem on HackerRank
+One challenge I faced was selecting the right layout and balancing text with visuals. However, I found Canva very user-friendly, and it helped me experiment with different templates. Overall, this task improved my creativity and understanding of how to present information effectively.
 
-I created a Digital Literacy quiz using Google Forms
+🌐 Task 2 – Digital Portfolio Write-up (170 words)
 
-Screenshots of both are included
+For this task, I created profiles on GitHub, LinkedIn, and HackerRank. GitHub is used to showcase projects and coding work, LinkedIn helps build a professional network, and HackerRank is useful for practicing coding skills.
 
-task-4-email-etiquette
+On GitHub, I created a profile README with my name, branch, and learning goals. On LinkedIn, I updated my education details, including my degree and expected graduation year. These platforms are important for building an online presence that can be viewed by recruiters and academic professionals.
 
-This contains:
+Over the next four years, I plan to use GitHub to upload projects, LinkedIn to connect with professionals and explore opportunities, and HackerRank to improve my coding skills. This task helped me understand the importance of maintaining a professional digital identity.
 
-Two professional email drafts
-A social media do’s and don’ts checklist
-This task helped me understand how to communicate properly online.
+💻 Task 3 – Platforms Write-up (170 words)
 
-## Task-5-Cybercrime
-This includes:
+In this task, I used HackerRank for coding practice and Google Forms for collaboration. On HackerRank, I completed a beginner-level problem, which helped me understand basic programming logic and problem-solving techniques.
 
-A case study on UPI payment fraud
-A prevention checklist
-This task helped me understand how cybercrime happens and how to stay safe.
+For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” with five questions, including multiple-choice and short-answer questions. I also viewed responses in Google Sheets, which helped me understand data collection and analysis.
 
-# Useful Links
-Google Form Link: https://forms.gle/U81ebXrh9wFL6sqh6
-LinkedIn Profile: https://www.linkedin.com/in/keshav-soni-7b6744321/
-GitHub Profile: https://github.com/allowingleafgamer-beep
-Reflection
-While doing this project, I got to know many new things about digital tools, online safety and how make online presence. Earlier I was not very aware about things like professional communication or cyber fraud, but now I understand it better.
+These tools are highly useful academically. HackerRank helps improve coding skills, which are essential for technical subjects, while Google Forms can be used for surveys, quizzes, and group projects. This task enhanced my practical knowledge of online tools used in education and collaboration.
 
-Conclusion
-Overall, this Digital Literacy project helped me to explore different platforms . It also made me more confident in using digital tools and being responsible online.
+✉️ Task 4 – Email Write-up (120 words)
+
+Poor digital communication can lead to misunderstandings and missed opportunities. For example, if a student sends an email without a subject line or proper greeting, it may be ignored by the recipient. This shows the importance of clear and professional communication.
+
+By following email etiquette, such as using proper greetings, structured content, and respectful tone, communication becomes more effective. In this task, I learned how to write professional emails and guide others in maintaining proper digital behavior.
+
+🔐 Task 5 – Cybercrime Write-up (120 words)
+
+While researching cybercrime, I was surprised to learn how easily people fall victim to phishing and UPI fraud. Many attacks rely on simple tricks like fake messages or urgent requests.
+
+One habit I will change is being more cautious while clicking links or sharing personal information online. I will always verify sources before taking action. This task increased my awareness of online threats and taught me how to stay safe in the digital world.
+
+🧾 Conclusion (100 words)
+
+This project provided a comprehensive understanding of digital literacy and its importance. Through various tasks, I developed skills in design, communication, collaboration, and cybersecurity awareness. It helped me build a professional online presence and understand responsible digital behavior. As a Digital Ambassador, I now feel confident in guiding others to use digital tools effectively and safely. Overall, this project was a valuable learning experience that will benefit me throughout my academic and professional journey.
+
+📚 References
+Canva.com
+LinkedIn.com
+GitHub.com
+HackerRank.com
+Google Forms
+cybercrime.gov.in
